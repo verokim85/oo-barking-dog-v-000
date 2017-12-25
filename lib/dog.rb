@@ -8,10 +8,10 @@ class Dog
   def name=(name)
     @name = nameE
   end
-  #
-  # def name
-  #   @name
-  # end
+
+  def name
+    @name
+  end
   #
   # def bark=(bark)
   #   @bark = bark
